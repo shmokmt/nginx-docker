@@ -1,2 +1,9 @@
 # nginx-docker
-reverse proxy sandbox
+
+Playground repository
+
+## Usage
+
+```
+docker-compose up
+```
